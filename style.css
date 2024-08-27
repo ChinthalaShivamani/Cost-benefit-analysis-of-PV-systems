@@ -400,7 +400,7 @@ body{
 .container form{
     margin-top: 16px;
     position: relative;
-    min-height: 500px;
+    min-height: 520px;
     background-color:white;
     overflow: hidden;
 }
@@ -528,6 +528,13 @@ form .buttons{
 }
 form .buttons button, .backbutton{
     margin-right: 14px;
+}
+canvas{
+    display: flexbox;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
 }
 @media (max-width: 750px) {
     .container form{

@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: gilroy;
+    /* font-family: gilroy; */
 }
 .header{
     min-height: 10vh;
@@ -384,7 +384,7 @@ body{
 }
 .container header{
     position: relative;
-    font-size: 20px;
+    font-size: 25px;
     margin: 0 0 25px 6px;
     font-weight: 600;
     color: #333;   
@@ -458,8 +458,9 @@ form.secActive.secActive2 .form.third {
 .container form .title{    
     display: block;  
     margin-left: 8.5px;
-    font-size: 17px;
+    font-size: 20px;
     font-weight: 500;
+    /* color: lightskyblue; */
 }
 .container form .fields{  
     display: flex;

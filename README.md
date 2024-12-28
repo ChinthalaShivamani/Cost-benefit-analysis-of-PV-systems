@@ -1,6 +1,8 @@
 # Cost-benefit-analysis-of-PV-systems
 Website link:https://cost-benefit-analysis.netlify.app/
 
+---
+
 ## Overview
 This project is a comprehensive website designed to assist users in evaluating and comparing photovoltaic (PV) system configurations. By gathering user-specific data and PV system parameters, the platform calculates the **Cost of Energy (COE)** for both grid-tied and dual-mode PV systems, enabling users to make informed decisions regarding optimal solar energy investments.
 
@@ -129,12 +131,6 @@ Cost-benefit-analysis-of-PV-systems/
 
 - [Chinthala Shivamani](https://github.com/ChinthalaShivamani)
 - [Mekala Sohitha Sonalika](https://github.com/MekalaSohithaSonalika)
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 

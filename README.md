@@ -128,7 +128,7 @@ Cost-benefit-analysis-of-PV-systems/
 ## Contributors
 
 - [Chinthala Shivamani](https://github.com/ChinthalaShivamani)
-- [Your Teammate’s Name](GitHub Profile Link)
+- [Mekala Sohitha Sonalika](https://github.com/MekalaSohithaSonalika)
 
 ---
 
